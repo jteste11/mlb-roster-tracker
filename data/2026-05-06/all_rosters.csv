@@ -1,0 +1,779 @@
+date,team_id,team_name,player_id,player_name,position,roster_type
+2026-05-06,133,Athletics,650644,Aaron Civale,P,active
+2026-05-06,133,Athletics,642851,Austin Wynns,C,active
+2026-05-06,133,Athletics,667670,Brent Rooker,RF,active
+2026-05-06,133,Athletics,695391,Brett Harris,3B,active
+2026-05-06,133,Athletics,666126,Carlos Cortes,RF,active
+2026-05-06,133,Athletics,687515,Colby Thomas,RF,active
+2026-05-06,133,Athletics,687231,Darell Hernaiz,3B,active
+2026-05-06,133,Athletics,663687,Hogan Harris,P,active
+2026-05-06,133,Athletics,669372,J.T. Ginn,P,active
+2026-05-06,133,Athletics,678022,Jack Perkins,P,active
+2026-05-06,133,Athletics,682052,Jacob Lopez,P,active
+2026-05-06,133,Athletics,805779,Jacob Wilson,SS,active
+2026-05-06,133,Athletics,643446,Jeff McNeil,2B,active
+2026-05-06,133,Athletics,605488,Jeffrey Springs,P,active
+2026-05-06,133,Athletics,669270,Joel Kuhnel,P,active
+2026-05-06,133,Athletics,641680,Jonah Heim,C,active
+2026-05-06,133,Athletics,686993,Justin Sterner,P,active
+2026-05-06,133,Athletics,671732,Lawrence Butler,RF,active
+2026-05-06,133,Athletics,665622,Luis Medina,P,active
+2026-05-06,133,Athletics,622663,Luis Severino,P,active
+2026-05-06,133,Athletics,643410,Mark Leiter Jr.,P,active
+2026-05-06,133,Athletics,701762,Nick Kurtz,1B,active
+2026-05-06,133,Athletics,605130,Scott Barlow,P,active
+2026-05-06,133,Athletics,621053,Tyler Ferguson,P,active
+2026-05-06,133,Athletics,691016,Tyler Soderstrom,LF,active
+2026-05-06,133,Athletics,680869,Zack Gelof,CF,active
+2026-05-06,134,Pittsburgh Pirates,695257,Billy Cook,RF,active
+2026-05-06,134,Pittsburgh Pirates,664040,Brandon Lowe,2B,active
+2026-05-06,134,Pittsburgh Pirates,677952,Braxton Ashcraft,P,active
+2026-05-06,134,Pittsburgh Pirates,668804,Bryan Reynolds,LF,active
+2026-05-06,134,Pittsburgh Pirates,696149,Bubba Chandler,P,active
+2026-05-06,134,Pittsburgh Pirates,669387,Carmen Mlodzinski,P,active
+2026-05-06,134,Pittsburgh Pirates,642701,Dennis Santana,P,active
+2026-05-06,134,Pittsburgh Pirates,681895,Evan Sisk,P,active
+2026-05-06,134,Pittsburgh Pirates,642397,Gregory Soto,P,active
+2026-05-06,134,Pittsburgh Pirates,680779,Henry Davis,C,active
+2026-05-06,134,Pittsburgh Pirates,676755,Isaac Mattson,P,active
+2026-05-06,134,Pittsburgh Pirates,663968,Jake Mangum,LF,active
+2026-05-06,134,Pittsburgh Pirates,669707,Jared Triolo,SS,active
+2026-05-06,134,Pittsburgh Pirates,663698,Joey Bart,C,active
+2026-05-06,134,Pittsburgh Pirates,664875,Justin Lawrence,P,active
+2026-05-06,134,Pittsburgh Pirates,804606,Konnor Griffin,SS,active
+2026-05-06,134,Pittsburgh Pirates,542303,Marcell Ozuna,DH,active
+2026-05-06,134,Pittsburgh Pirates,682254,Mason Montgomery,P,active
+2026-05-06,134,Pittsburgh Pirates,656605,Mitch Keller,P,active
+2026-05-06,134,Pittsburgh Pirates,693304,Nick Gonzales,3B,active
+2026-05-06,134,Pittsburgh Pirates,665833,Oneil Cruz,CF,active
+2026-05-06,134,Pittsburgh Pirates,694973,Paul Skenes,P,active
+2026-05-06,134,Pittsburgh Pirates,656811,Ryan O'Hearn,RF,active
+2026-05-06,134,Pittsburgh Pirates,687462,Spencer Horwitz,1B,active
+2026-05-06,134,Pittsburgh Pirates,670990,Yohan Ramírez,P,active
+2026-05-06,135,San Diego Padres,670970,Adrian Morejon,P,active
+2026-05-06,135,San Diego Padres,699134,Bradgley Rodriguez,P,active
+2026-05-06,135,San Diego Padres,669369,Bryce Johnson,RF,active
+2026-05-06,135,San Diego Padres,665487,Fernando Tatis Jr.,RF,active
+2026-05-06,135,San Diego Padres,666023,Freddy Fermin,C,active
+2026-05-06,135,San Diego Padres,657757,Gavin Sheets,1B,active
+2026-05-06,135,San Diego Padres,656288,Griffin Canning,P,active
+2026-05-06,135,San Diego Padres,701538,Jackson Merrill,CF,active
+2026-05-06,135,San Diego Padres,592094,Jason Adam,P,active
+2026-05-06,135,San Diego Padres,669093,Jeremiah Estrada,P,active
+2026-05-06,135,San Diego Padres,669134,Luis Campusano,C,active
+2026-05-06,135,San Diego Padres,592518,Manny Machado,3B,active
+2026-05-06,135,San Diego Padres,695243,Mason Miller,P,active
+2026-05-06,135,San Diego Padres,663362,Matt Waldron,P,active
+2026-05-06,135,San Diego Padres,650633,Michael King,P,active
+2026-05-06,135,San Diego Padres,609280,Miguel Andujar,3B,active
+2026-05-06,135,San Diego Padres,592206,Nick Castellanos,RF,active
+2026-05-06,135,San Diego Padres,657656,Ramón Laureano,LF,active
+2026-05-06,135,San Diego Padres,681190,Randy Vásquez,P,active
+2026-05-06,135,San Diego Padres,676760,Ron Marinaccio,P,active
+2026-05-06,135,San Diego Padres,823550,Sung-Mun Song,3B,active
+2026-05-06,135,San Diego Padres,664034,Ty France,1B,active
+2026-05-06,135,San Diego Padres,621111,Walker Buehler,P,active
+2026-05-06,135,San Diego Padres,593974,Wandy Peralta,P,active
+2026-05-06,135,San Diego Padres,593428,Xander Bogaerts,SS,active
+2026-05-06,135,San Diego Padres,673513,Yuki Matsui,P,active
+2026-05-06,136,Seattle Mariners,695380,Alex Hoppe,P,active
+2026-05-06,136,Seattle Mariners,662253,Andrés Muñoz,P,active
+2026-05-06,136,Seattle Mariners,693433,Bryan Woo,P,active
+2026-05-06,136,Seattle Mariners,663728,Cal Raleigh,C,active
+2026-05-06,136,Seattle Mariners,702284,Cole Young,2B,active
+2026-05-06,136,Seattle Mariners,656582,Connor Joe,1B,active
+2026-05-06,136,Seattle Mariners,681867,Cooper Criswell,P,active
+2026-05-06,136,Seattle Mariners,686527,Dominic Canzone,RF,active
+2026-05-06,136,Seattle Mariners,660825,Eduard Bazardo,P,active
+2026-05-06,136,Seattle Mariners,676106,Emerson Hancock,P,active
+2026-05-06,136,Seattle Mariners,669923,George Kirby,P,active
+2026-05-06,136,Seattle Mariners,641487,J.P. Crawford,SS,active
+2026-05-06,136,Seattle Mariners,640902,Jhonny Pereda,C,active
+2026-05-06,136,Seattle Mariners,678606,Jose A. Ferrer,P,active
+2026-05-06,136,Seattle Mariners,660761,José Suarez,P,active
+2026-05-06,136,Seattle Mariners,647304,Josh Naylor,1B,active
+2026-05-06,136,Seattle Mariners,681006,Josh Simpson,P,active
+2026-05-06,136,Seattle Mariners,677594,Julio Rodríguez,CF,active
+2026-05-06,136,Seattle Mariners,660844,Leo Rivas,3B,active
+2026-05-06,136,Seattle Mariners,669302,Logan Gilbert,P,active
+2026-05-06,136,Seattle Mariners,622491,Luis Castillo,P,active
+2026-05-06,136,Seattle Mariners,670042,Luke Raley,RF,active
+2026-05-06,136,Seattle Mariners,641598,Mitch Garver,C,active
+2026-05-06,136,Seattle Mariners,689546,Nick Davila,P,active
+2026-05-06,136,Seattle Mariners,668227,Randy Arozarena,LF,active
+2026-05-06,136,Seattle Mariners,608701,Rob Refsnyder,RF,active
+2026-05-06,137,San Francisco Giants,605288,Adrian Houser,P,active
+2026-05-06,137,San Francisco Giants,805811,Bryce Eldridge,1B,active
+2026-05-06,137,San Francisco Giants,668873,Caleb Kilian,P,active
+2026-05-06,137,San Francisco Giants,669477,Casey Schmitt,1B,active
+2026-05-06,137,San Francisco Giants,683766,Christian Koss,2B,active
+2026-05-06,137,San Francisco Giants,687551,Drew Gilbert,CF,active
+2026-05-06,137,San Francisco Giants,606992,Eric Haase,C,active
+2026-05-06,137,San Francisco Giants,666619,Gregory Santos,P,active
+2026-05-06,137,San Francisco Giants,671218,Heliot Ramos,LF,active
+2026-05-06,137,San Francisco Giants,664141,JT Brubaker,P,active
+2026-05-06,137,San Francisco Giants,683679,Jesus Rodriguez,C,active
+2026-05-06,137,San Francisco Giants,666711,Joel Peguero,P,active
+2026-05-06,137,San Francisco Giants,808982,Jung Hoo Lee,RF,active
+2026-05-06,137,San Francisco Giants,676775,Keaton Winn,P,active
+2026-05-06,137,San Francisco Giants,694738,Landen Roupp,P,active
+2026-05-06,137,San Francisco Giants,657277,Logan Webb,P,active
+2026-05-06,137,San Francisco Giants,650333,Luis Arraez,2B,active
+2026-05-06,137,San Francisco Giants,656305,Matt Chapman,3B,active
+2026-05-06,137,San Francisco Giants,657424,Matt Gage,P,active
+2026-05-06,137,San Francisco Giants,672275,Patrick Bailey,C,active
+2026-05-06,137,San Francisco Giants,646240,Rafael Devers,1B,active
+2026-05-06,137,San Francisco Giants,592662,Robbie Ray,P,active
+2026-05-06,137,San Francisco Giants,621366,Ryan Borucki,P,active
+2026-05-06,137,San Francisco Giants,676254,Ryan Walker,P,active
+2026-05-06,137,San Francisco Giants,641816,Tyler Mahle,P,active
+2026-05-06,137,San Francisco Giants,642715,Willy Adames,SS,active
+2026-05-06,138,St. Louis Cardinals,676475,Alec Burleson,1B,active
+2026-05-06,138,St. Louis Cardinals,669467,Andre Pallante,P,active
+2026-05-06,138,St. Louis Cardinals,693409,César Prieto,2B,active
+2026-05-06,138,St. Louis Cardinals,669160,Dustin May,P,active
+2026-05-06,138,St. Louis Cardinals,666277,George Soriano,P,active
+2026-05-06,138,St. Louis Cardinals,700669,Gordon Graceffo,P,active
+2026-05-06,138,St. Louis Cardinals,671056,Iván Herrera,C,active
+2026-05-06,138,St. Louis Cardinals,802139,JJ Wetherholt,2B,active
+2026-05-06,138,St. Louis Cardinals,694363,Jared Shuster,P,active
+2026-05-06,138,St. Louis Cardinals,668941,JoJo Romero,P,active
+2026-05-06,138,St. Louis Cardinals,691023,Jordan Walker,RF,active
+2026-05-06,138,St. Louis Cardinals,665877,José Fermín,LF,active
+2026-05-06,138,St. Louis Cardinals,677865,Justin Bruihl,P,active
+2026-05-06,138,St. Louis Cardinals,681517,Kyle Leahy,P,active
+2026-05-06,138,St. Louis Cardinals,691026,Masyn Winn,SS,active
+2026-05-06,138,St. Louis Cardinals,694335,Matt Svanson,P,active
+2026-05-06,138,St. Louis Cardinals,669461,Matthew Liberatore,P,active
+2026-05-06,138,St. Louis Cardinals,700241,Michael McGreevy,P,active
+2026-05-06,138,St. Louis Cardinals,701675,Nathan Church,LF,active
+2026-05-06,138,St. Louis Cardinals,669357,Nolan Gorman,3B,active
+2026-05-06,138,St. Louis Cardinals,686780,Pedro Pagés,C,active
+2026-05-06,138,St. Louis Cardinals,676617,Riley O'Brien,P,active
+2026-05-06,138,St. Louis Cardinals,592773,Ryne Stanek,P,active
+2026-05-06,138,St. Louis Cardinals,695336,Thomas Saggese,LF,active
+2026-05-06,138,St. Louis Cardinals,687363,Victor Scott II,CF,active
+2026-05-06,138,St. Louis Cardinals,650968,Yohel Pozo,C,active
+2026-05-06,139,Tampa Bay Rays,810938,Ben Williamson,2B,active
+2026-05-06,139,Tampa Bay Rays,641329,Bryan Baker,P,active
+2026-05-06,139,Tampa Bay Rays,668984,Casey Legumina,P,active
+2026-05-06,139,Tampa Bay Rays,656775,Cedric Mullins,CF,active
+2026-05-06,139,Tampa Bay Rays,802415,Chandler Simpson,LF,active
+2026-05-06,139,Tampa Bay Rays,686678,Chase Solesky,P,active
+2026-05-06,139,Tampa Bay Rays,642121,Cole Sulser,P,active
+2026-05-06,139,Tampa Bay Rays,656876,Drew Rasmussen,P,active
+2026-05-06,139,Tampa Bay Rays,664076,Garrett Cleavinger,P,active
+2026-05-06,139,Tampa Bay Rays,643377,Griffin Jax,P,active
+2026-05-06,139,Tampa Bay Rays,685801,Hunter Bigge,P,active
+2026-05-06,139,Tampa Bay Rays,676439,Hunter Feduccia,C,active
+2026-05-06,139,Tampa Bay Rays,693855,Ian Seymour,P,active
+2026-05-06,139,Tampa Bay Rays,641584,Jake Fraley,RF,active
+2026-05-06,139,Tampa Bay Rays,669947,Jesse Scholtens,P,active
+2026-05-06,139,Tampa Bay Rays,666018,Jonathan Aranda,1B,active
+2026-05-06,139,Tampa Bay Rays,676356,Jonny DeLuca,RF,active
+2026-05-06,139,Tampa Bay Rays,691406,Junior Caminero,3B,active
+2026-05-06,139,Tampa Bay Rays,687330,Kevin Kelly,P,active
+2026-05-06,139,Tampa Bay Rays,663743,Nick Fortes,C,active
+2026-05-06,139,Tampa Bay Rays,607259,Nick Martinez,P,active
+2026-05-06,139,Tampa Bay Rays,680700,Richie Palacios,2B,active
+2026-05-06,139,Tampa Bay Rays,668723,Ryan Vilade,RF,active
+2026-05-06,139,Tampa Bay Rays,663556,Shane McClanahan,P,active
+2026-05-06,139,Tampa Bay Rays,670764,Taylor Walls,SS,active
+2026-05-06,139,Tampa Bay Rays,650490,Yandy Díaz,1B,active
+2026-05-06,140,Texas Rangers,696030,Alejandro Osuna,LF,active
+2026-05-06,140,Texas Rangers,457705,Andrew McCutchen,LF,active
+2026-05-06,140,Texas Rangers,607043,Brandon Nimmo,RF,active
+2026-05-06,140,Texas Rangers,615698,Cal Quantrill,P,active
+2026-05-06,140,Texas Rangers,668390,Cole Winn,P,active
+2026-05-06,140,Texas Rangers,608369,Corey Seager,SS,active
+2026-05-06,140,Texas Rangers,643376,Danny Jansen,C,active
+2026-05-06,140,Texas Rangers,694497,Evan Carter,CF,active
+2026-05-06,140,Texas Rangers,677649,Ezequiel Duran,LF,active
+2026-05-06,140,Texas Rangers,686560,Gavin Collyer,P,active
+2026-05-06,140,Texas Rangers,683004,Jack Leiter,P,active
+2026-05-06,140,Texas Rangers,656641,Jacob Latz,P,active
+2026-05-06,140,Texas Rangers,594798,Jacob deGrom,P,active
+2026-05-06,140,Texas Rangers,669394,Jake Burger,1B,active
+2026-05-06,140,Texas Rangers,596001,Jakob Junis,P,active
+2026-05-06,140,Texas Rangers,656222,Jalen Beeks,P,active
+2026-05-06,140,Texas Rangers,592626,Joc Pederson,1B,active
+2026-05-06,140,Texas Rangers,673962,Josh Jung,3B,active
+2026-05-06,140,Texas Rangers,679822,Justin Foscue,1B,active
+2026-05-06,140,Texas Rangers,677958,Kumar Rocker,P,active
+2026-05-06,140,Texas Rangers,543309,Kyle Higashioka,C,active
+2026-05-06,140,Texas Rangers,669022,MacKenzie Gore,P,active
+2026-05-06,140,Texas Rangers,543135,Nathan Eovaldi,P,active
+2026-05-06,140,Texas Rangers,682608,Peyton Gray,P,active
+2026-05-06,140,Texas Rangers,664059,Sam Haggerty,LF,active
+2026-05-06,140,Texas Rangers,641302,Tyler Alexander,P,active
+2026-05-06,141,Toronto Blue Jays,665926,Andrés Giménez,SS,active
+2026-05-06,141,Toronto Blue Jays,678218,Brandon Valenzuela,C,active
+2026-05-06,141,Toronto Blue Jays,680755,Braydon Fisher,P,active
+2026-05-06,141,Toronto Blue Jays,662139,Daulton Varsho,CF,active
+2026-05-06,141,Toronto Blue Jays,676914,Davis Schneider,LF,active
+2026-05-06,141,Toronto Blue Jays,656302,Dylan Cease,P,active
+2026-05-06,141,Toronto Blue Jays,641778,Eric Lauer,P,active
+2026-05-06,141,Toronto Blue Jays,676391,Ernie Clement,2B,active
+2026-05-06,141,Toronto Blue Jays,543807,George Springer,DH,active
+2026-05-06,141,Toronto Blue Jays,656546,Jeff Hoffman,P,active
+2026-05-06,141,Toronto Blue Jays,660821,Jesús Sánchez,LF,active
+2026-05-06,141,Toronto Blue Jays,573009,Joe Mantiply,P,active
+2026-05-06,141,Toronto Blue Jays,672960,Kazuma Okamoto,3B,active
+2026-05-06,141,Toronto Blue Jays,592332,Kevin Gausman,P,active
+2026-05-06,141,Toronto Blue Jays,672820,Lenyn Sosa,2B,active
+2026-05-06,141,Toronto Blue Jays,686973,Louis Varland,P,active
+2026-05-06,141,Toronto Blue Jays,689254,Mason Fluharty,P,active
+2026-05-06,141,Toronto Blue Jays,664702,Myles Straw,RF,active
+2026-05-06,141,Toronto Blue Jays,571578,Patrick Corbin,P,active
+2026-05-06,141,Toronto Blue Jays,693686,Spencer Miles,P,active
+2026-05-06,141,Toronto Blue Jays,667297,Tommy Nance,P,active
+2026-05-06,141,Toronto Blue Jays,702056,Trey Yesavage,P,active
+2026-05-06,141,Toronto Blue Jays,623168,Tyler Heineman,C,active
+2026-05-06,141,Toronto Blue Jays,643511,Tyler Rogers,P,active
+2026-05-06,141,Toronto Blue Jays,665489,Vladimir Guerrero Jr.,1B,active
+2026-05-06,141,Toronto Blue Jays,682818,Yohendrick Piñango,LF,active
+2026-05-06,142,Minnesota Twins,702193,Andrew Morris,P,active
+2026-05-06,142,Minnesota Twins,607455,Anthony Banda,P,active
+2026-05-06,142,Minnesota Twins,668885,Austin Martin,LF,active
+2026-05-06,142,Minnesota Twins,641927,Bailey Ober,P,active
+2026-05-06,142,Minnesota Twins,686797,Brooks Lee,SS,active
+2026-05-06,142,Minnesota Twins,621439,Byron Buxton,CF,active
+2026-05-06,142,Minnesota Twins,687570,Connor Prielipp,P,active
+2026-05-06,142,Minnesota Twins,679358,Eric Orze,P,active
+2026-05-06,142,Minnesota Twins,681546,James Outman,CF,active
+2026-05-06,142,Minnesota Twins,657746,Joe Ryan,P,active
+2026-05-06,142,Minnesota Twins,804619,John Klein,P,active
+2026-05-06,142,Minnesota Twins,605137,Josh Bell,1B,active
+2026-05-06,142,Minnesota Twins,623437,Justin Topa,P,active
+2026-05-06,142,Minnesota Twins,665019,Kody Clemens,1B,active
+2026-05-06,142,Minnesota Twins,681892,Kody Funderburk,P,active
+2026-05-06,142,Minnesota Twins,472610,Luis García,P,active
+2026-05-06,142,Minnesota Twins,807712,Luke Keaschall,2B,active
+2026-05-06,142,Minnesota Twins,670242,Matt Wallner,RF,active
+2026-05-06,142,Minnesota Twins,668904,Royce Lewis,3B,active
+2026-05-06,142,Minnesota Twins,680777,Ryan Jeffers,C,active
+2026-05-06,142,Minnesota Twins,680573,Simeon Woods Richardson,P,active
+2026-05-06,142,Minnesota Twins,671737,Taj Bradley,P,active
+2026-05-06,142,Minnesota Twins,573124,Taylor Rogers,P,active
+2026-05-06,142,Minnesota Twins,663616,Trevor Larnach,LF,active
+2026-05-06,142,Minnesota Twins,656484,Tristan Gray,3B,active
+2026-05-06,142,Minnesota Twins,605170,Victor Caratini,C,active
+2026-05-06,143,Philadelphia Phillies,605400,Aaron Nola,P,active
+2026-05-06,143,Philadelphia Phillies,666969,Adolis García,RF,active
+2026-05-06,143,Philadelphia Phillies,664761,Alec Bohm,3B,active
+2026-05-06,143,Philadelphia Phillies,691725,Andrew Painter,P,active
+2026-05-06,143,Philadelphia Phillies,641745,Brad Keller,P,active
+2026-05-06,143,Philadelphia Phillies,669016,Brandon Marsh,LF,active
+2026-05-06,143,Philadelphia Phillies,547180,Bryce Harper,1B,active
+2026-05-06,143,Philadelphia Phillies,681082,Bryson Stott,2B,active
+2026-05-06,143,Philadelphia Phillies,663767,Chase Shugart,P,active
+2026-05-06,143,Philadelphia Phillies,650911,Cristopher Sánchez,P,active
+2026-05-06,143,Philadelphia Phillies,624641,Edmundo Sosa,2B,active
+2026-05-06,143,Philadelphia Phillies,694025,Felix Reyes,LF,active
+2026-05-06,143,Philadelphia Phillies,596117,Garrett Stubbs,C,active
+2026-05-06,143,Philadelphia Phillies,592663,J.T. Realmuto,C,active
+2026-05-06,143,Philadelphia Phillies,666200,Jesús Luzardo,P,active
+2026-05-06,143,Philadelphia Phillies,661395,Jhoan Duran,P,active
+2026-05-06,143,Philadelphia Phillies,680742,Jonathan Bowlan,P,active
+2026-05-06,143,Philadelphia Phillies,621237,José Alvarado,P,active
+2026-05-06,143,Philadelphia Phillies,702222,Justin Crawford,CF,active
+2026-05-06,143,Philadelphia Phillies,656941,Kyle Schwarber,LF,active
+2026-05-06,143,Philadelphia Phillies,689147,Orion Kerkering,P,active
+2026-05-06,143,Philadelphia Phillies,665561,Rafael Marchán,C,active
+2026-05-06,143,Philadelphia Phillies,621383,Tanner Banks,P,active
+2026-05-06,143,Philadelphia Phillies,641835,Tim Mayza,P,active
+2026-05-06,143,Philadelphia Phillies,607208,Trea Turner,SS,active
+2026-05-06,143,Philadelphia Phillies,554430,Zack Wheeler,P,active
+2026-05-06,144,Atlanta Braves,607481,Aaron Bummer,P,active
+2026-05-06,144,Atlanta Braves,663586,Austin Riley,3B,active
+2026-05-06,144,Atlanta Braves,693821,Bryce Elder,P,active
+2026-05-06,144,Atlanta Braves,519242,Chris Sale,P,active
+2026-05-06,144,Atlanta Braves,800311,Didier Fuentes,P,active
+2026-05-06,144,Atlanta Braves,642086,Dominic Smith,1B,active
+2026-05-06,144,Atlanta Braves,686948,Drake Baldwin,C,active
+2026-05-06,144,Atlanta Braves,669276,Dylan Lee,P,active
+2026-05-06,144,Atlanta Braves,642201,Eli White,CF,active
+2026-05-06,144,Atlanta Braves,656550,Grant Holmes,P,active
+2026-05-06,144,Atlanta Braves,702275,JR Ritchie,P,active
+2026-05-06,144,Atlanta Braves,622761,Jorge Mateo,SS,active
+2026-05-06,144,Atlanta Braves,640492,José Azocar,LF,active
+2026-05-06,144,Atlanta Braves,571657,Kyle Farmer,3B,active
+2026-05-06,144,Atlanta Braves,527048,Martín Pérez,P,active
+2026-05-06,144,Atlanta Braves,621566,Matt Olson,1B,active
+2026-05-06,144,Atlanta Braves,643289,Mauricio Dubón,SS,active
+2026-05-06,144,Atlanta Braves,671739,Michael Harris II,CF,active
+2026-05-06,144,Atlanta Braves,573262,Mike Yastrzemski,LF,active
+2026-05-06,144,Atlanta Braves,645277,Ozzie Albies,2B,active
+2026-05-06,144,Atlanta Braves,628452,Raisel Iglesias,P,active
+2026-05-06,144,Atlanta Braves,625643,Reynaldo López,P,active
+2026-05-06,144,Atlanta Braves,663158,Robert Suarez,P,active
+2026-05-06,144,Atlanta Braves,669221,Sean Murphy,C,active
+2026-05-06,144,Atlanta Braves,675911,Spencer Strider,P,active
+2026-05-06,144,Atlanta Braves,641755,Tyler Kinley,P,active
+2026-05-06,145,Chicago White Sox,643217,Andrew Benintendi,LF,active
+2026-05-06,145,Chicago White Sox,641743,Anthony Kay,P,active
+2026-05-06,145,Chicago White Sox,663542,Bryan Hudson,P,active
+2026-05-06,145,Chicago White Sox,805367,Chase Meidroth,2B,active
+2026-05-06,145,Chicago White Sox,695657,Colson Montgomery,SS,active
+2026-05-06,145,Chicago White Sox,663436,Davis Martin,P,active
+2026-05-06,145,Chicago White Sox,656537,Derek Hill,RF,active
+2026-05-06,145,Chicago White Sox,691011,Drew Romo,C,active
+2026-05-06,145,Chicago White Sox,700337,Edgar Quero,C,active
+2026-05-06,145,Chicago White Sox,607200,Erick Fedde,P,active
+2026-05-06,145,Chicago White Sox,691799,Grant Taylor,P,active
+2026-05-06,145,Chicago White Sox,672284,Jarred Kelenic,RF,active
+2026-05-06,145,Chicago White Sox,663855,Jordan Hicks,P,active
+2026-05-06,145,Chicago White Sox,673929,Jordan Leasure,P,active
+2026-05-06,145,Chicago White Sox,682668,Luisangel Acuña,CF,active
+2026-05-06,145,Chicago White Sox,678246,Miguel Vargas,3B,active
+2026-05-06,145,Chicago White Sox,808959,Munetaka Murakami,1B,active
+2026-05-06,145,Chicago White Sox,702273,Noah Schultz,P,active
+2026-05-06,145,Chicago White Sox,674370,Osvaldo Bido,P,active
+2026-05-06,145,Chicago White Sox,545341,Randal Grichuk,LF,active
+2026-05-06,145,Chicago White Sox,803011,Sam Antonacci,LF,active
+2026-05-06,145,Chicago White Sox,680732,Sean Burke,P,active
+2026-05-06,145,Chicago White Sox,656794,Sean Newcomb,P,active
+2026-05-06,145,Chicago White Sox,622554,Seranthony Domínguez,P,active
+2026-05-06,145,Chicago White Sox,671976,Tristan Peters,CF,active
+2026-05-06,145,Chicago White Sox,699823,Tyler Davis,P,active
+2026-05-06,146,Miami Marlins,677053,Andrew Nardi,P,active
+2026-05-06,146,Miami Marlins,669622,Anthony Bender,P,active
+2026-05-06,146,Miami Marlins,676534,Calvin Faucher,P,active
+2026-05-06,146,Miami Marlins,666624,Christopher Morel,LF,active
+2026-05-06,146,Miami Marlins,681393,Connor Norby,1B,active
+2026-05-06,146,Miami Marlins,665923,Esteury Ruiz,CF,active
+2026-05-06,146,Miami Marlins,691587,Eury Pérez,P,active
+2026-05-06,146,Miami Marlins,688363,Graham Pauley,3B,active
+2026-05-06,146,Miami Marlins,805300,Jakob Marsee,CF,active
+2026-05-06,146,Miami Marlins,676083,Janson Junk,P,active
+2026-05-06,146,Miami Marlins,691594,Javier Sanoja,3B,active
+2026-05-06,146,Miami Marlins,691788,Joe Mack,C,active
+2026-05-06,146,Miami Marlins,667463,John King,P,active
+2026-05-06,146,Miami Marlins,694795,Josh Ekness,P,active
+2026-05-06,146,Miami Marlins,669065,Kyle Stowers,LF,active
+2026-05-06,146,Miami Marlins,669199,Lake Bachar,P,active
+2026-05-06,146,Miami Marlins,677870,Leo Jiménez,2B,active
+2026-05-06,146,Miami Marlins,689414,Liam Hicks,C,active
+2026-05-06,146,Miami Marlins,676974,Max Meyer,P,active
+2026-05-06,146,Miami Marlins,656848,Michael Petersen,P,active
+2026-05-06,146,Miami Marlins,672640,Otto Lopez,SS,active
+2026-05-06,146,Miami Marlins,683357,Owen Caissie,RF,active
+2026-05-06,146,Miami Marlins,645261,Sandy Alcantara,P,active
+2026-05-06,146,Miami Marlins,663969,Tyler Phillips,P,active
+2026-05-06,146,Miami Marlins,687531,William Kempner,P,active
+2026-05-06,146,Miami Marlins,669364,Xavier Edwards,2B,active
+2026-05-06,147,New York Yankees,592450,Aaron Judge,RF,active
+2026-05-06,147,New York Yankees,642708,Amed Rosario,3B,active
+2026-05-06,147,New York Yankees,669224,Austin Wells,C,active
+2026-05-06,147,New York Yankees,700250,Ben Rice,1B,active
+2026-05-06,147,New York Yankees,687396,Brent Headrick,P,active
+2026-05-06,147,New York Yankees,693645,Cam Schlittler,P,active
+2026-05-06,147,New York Yankees,666808,Camilo Doval,P,active
+2026-05-06,147,New York Yankees,641355,Cody Bellinger,LF,active
+2026-05-06,147,New York Yankees,670280,David Bednar,P,active
+2026-05-06,147,New York Yankees,518585,Fernando Cruz,P,active
+2026-05-06,147,New York Yankees,641555,J.C. Escarra,C,active
+2026-05-06,147,New York Yankees,656234,Jake Bird,P,active
+2026-05-06,147,New York Yankees,691176,Jasson Domínguez,LF,active
+2026-05-06,147,New York Yankees,665862,Jazz Chisholm Jr.,2B,active
+2026-05-06,147,New York Yankees,676609,José Caballero,SS,active
+2026-05-06,147,New York Yankees,608331,Max Fried,P,active
+2026-05-06,147,New York Yankees,680474,Max Schuemann,3B,active
+2026-05-06,147,New York Yankees,621112,Paul Blackburn,P,active
+2026-05-06,147,New York Yankees,502671,Paul Goldschmidt,1B,active
+2026-05-06,147,New York Yankees,641857,Ryan McMahon,3B,active
+2026-05-06,147,New York Yankees,677960,Ryan Weathers,P,active
+2026-05-06,147,New York Yankees,642232,Ryan Yarbrough,P,active
+2026-05-06,147,New York Yankees,657612,Tim Hill,P,active
+2026-05-06,147,New York Yankees,663757,Trent Grisham,CF,active
+2026-05-06,147,New York Yankees,701542,Will Warren,P,active
+2026-05-06,158,Milwaukee Brewers,676879,Aaron Ashby,P,active
+2026-05-06,158,Milwaukee Brewers,682842,Abner Uribe,P,active
+2026-05-06,158,Milwaukee Brewers,683734,Andrew Vaughn,1B,active
+2026-05-06,158,Milwaukee Brewers,663604,Brandon Lockridge,LF,active
+2026-05-06,158,Milwaukee Brewers,687075,Brandon Sproat,P,active
+2026-05-06,158,Milwaukee Brewers,702153,Brian Fitzpatrick,P,active
+2026-05-06,158,Milwaukee Brewers,668930,Brice Turang,2B,active
+2026-05-06,158,Milwaukee Brewers,694477,Chad Patrick,P,active
+2026-05-06,158,Milwaukee Brewers,669084,DL Hall,P,active
+2026-05-06,158,Milwaukee Brewers,666152,David Hamilton,3B,active
+2026-05-06,158,Milwaukee Brewers,669003,Garrett Mitchell,CF,active
+2026-05-06,158,Milwaukee Brewers,596142,Gary Sánchez,C,active
+2026-05-06,158,Milwaukee Brewers,681982,Grant Anderson,P,active
+2026-05-06,158,Milwaukee Brewers,694192,Jackson Chourio,CF,active
+2026-05-06,158,Milwaukee Brewers,694819,Jacob Misiorowski,P,active
+2026-05-06,158,Milwaukee Brewers,641343,Jake Bauers,1B,active
+2026-05-06,158,Milwaukee Brewers,663765,Jake Woodford,P,active
+2026-05-06,158,Milwaukee Brewers,687401,Joey Ortiz,SS,active
+2026-05-06,158,Milwaukee Brewers,690986,Kyle Harrison,P,active
+2026-05-06,158,Milwaukee Brewers,701656,Logan Henderson,P,active
+2026-05-06,158,Milwaukee Brewers,650859,Luis Rengifo,3B,active
+2026-05-06,158,Milwaukee Brewers,686217,Sal Frelick,RF,active
+2026-05-06,158,Milwaukee Brewers,675660,Shane Drohan,P,active
+2026-05-06,158,Milwaukee Brewers,656730,Trevor Megill,P,active
+2026-05-06,158,Milwaukee Brewers,672012,Tyler Black,3B,active
+2026-05-06,158,Milwaukee Brewers,661388,William Contreras,C,active
+2026-05-06,108,Los Angeles Angels,624428,Adam Frazier,2B,active
+2026-05-06,108,Los Angeles Angels,608718,Brent Suter,P,active
+2026-05-06,108,Los Angeles Angels,669326,Bryce Teodosio,LF,active
+2026-05-06,108,Los Angeles Angels,681217,Chase Silseth,P,active
+2026-05-06,108,Los Angeles Angels,519141,Drew Pomeranz,P,active
+2026-05-06,108,Los Angeles Angels,686799,Jack Kochanowicz,P,active
+2026-05-06,108,Los Angeles Angels,666176,Jo Adell,RF,active
+2026-05-06,108,Los Angeles Angels,624585,Jorge Soler,RF,active
+2026-05-06,108,Los Angeles Angels,820862,José Fermin,P,active
+2026-05-06,108,Los Angeles Angels,667755,José Soriano,P,active
+2026-05-06,108,Los Angeles Angels,666139,Josh Lowe,LF,active
+2026-05-06,108,Los Angeles Angels,489446,Kirby Yates,P,active
+2026-05-06,108,Los Angeles Angels,545361,Mike Trout,CF,active
+2026-05-06,108,Los Angeles Angels,815083,Mitch Farris,P,active
+2026-05-06,108,Los Angeles Angels,694384,Nolan Schanuel,1B,active
+2026-05-06,108,Los Angeles Angels,672724,Oswald Peraza,2B,active
+2026-05-06,108,Los Angeles Angels,672282,Reid Detmers,P,active
+2026-05-06,108,Los Angeles Angels,666171,Ryan Zeferjahn,P,active
+2026-05-06,108,Los Angeles Angels,691951,Sam Aldegheri,P,active
+2026-05-06,108,Los Angeles Angels,696147,Sam Bachman,P,active
+2026-05-06,108,Los Angeles Angels,665861,Sebastián Rivero,C,active
+2026-05-06,108,Los Angeles Angels,518595,Travis d'Arnaud,C,active
+2026-05-06,108,Los Angeles Angels,687093,Vaughn Grissom,2B,active
+2026-05-06,108,Los Angeles Angels,700712,Walbert Ureña,P,active
+2026-05-06,108,Los Angeles Angels,660162,Yoán Moncada,3B,active
+2026-05-06,108,Los Angeles Angels,687263,Zach Neto,SS,active
+2026-05-06,109,Arizona Diamondbacks,680728,Adrian Del Castillo,C,active
+2026-05-06,109,Arizona Diamondbacks,677950,Alek Thomas,CF,active
+2026-05-06,109,Arizona Diamondbacks,694297,Brandon Pfaadt,P,active
+2026-05-06,109,Arizona Diamondbacks,805299,Brandyn Garcia,P,active
+2026-05-06,109,Arizona Diamondbacks,682998,Corbin Carroll,RF,active
+2026-05-06,109,Arizona Diamondbacks,593958,Eduardo Rodriguez,P,active
+2026-05-06,109,Arizona Diamondbacks,672515,Gabriel Moreno,C,active
+2026-05-06,109,Arizona Diamondbacks,672695,Geraldo Perdomo,SS,active
+2026-05-06,109,Arizona Diamondbacks,545121,Ildemaro Vargas,1B,active
+2026-05-06,109,Arizona Diamondbacks,543510,James McCann,C,active
+2026-05-06,109,Arizona Diamondbacks,642528,Jonathan Loáisiga,P,active
+2026-05-06,109,Arizona Diamondbacks,678489,Jorge Barrosa,LF,active
+2026-05-06,109,Arizona Diamondbacks,699912,Jose Fernandez,1B,active
+2026-05-06,109,Arizona Diamondbacks,666661,Juan Morillo,P,active
+2026-05-06,109,Arizona Diamondbacks,606466,Ketel Marte,2B,active
+2026-05-06,109,Arizona Diamondbacks,656464,Kevin Ginkel,P,active
+2026-05-06,109,Arizona Diamondbacks,666971,Lourdes Gurriel Jr.,LF,active
+2026-05-06,109,Arizona Diamondbacks,518876,Merrill Kelly,P,active
+2026-05-06,109,Arizona Diamondbacks,647336,Michael Soroka,P,active
+2026-05-06,109,Arizona Diamondbacks,571448,Nolan Arenado,3B,active
+2026-05-06,109,Arizona Diamondbacks,623149,Paul Sewald,P,active
+2026-05-06,109,Arizona Diamondbacks,657044,Ryan Thompson,P,active
+2026-05-06,109,Arizona Diamondbacks,669194,Ryne Nelson,P,active
+2026-05-06,109,Arizona Diamondbacks,664199,Taylor Clarke,P,active
+2026-05-06,109,Arizona Diamondbacks,694374,Tim Tawa,LF,active
+2026-05-06,109,Arizona Diamondbacks,668678,Zac Gallen,P,active
+2026-05-06,110,Baltimore Orioles,668939,Adley Rutschman,C,active
+2026-05-06,110,Baltimore Orioles,552640,Andrew Kittredge,P,active
+2026-05-06,110,Baltimore Orioles,689296,Anthony Nunez,P,active
+2026-05-06,110,Baltimore Orioles,677942,Blaze Alexander,3B,active
+2026-05-06,110,Baltimore Orioles,687064,Brandon Young,P,active
+2026-05-06,110,Baltimore Orioles,700249,Cade Povich,P,active
+2026-05-06,110,Baltimore Orioles,605135,Chris Bassitt,P,active
+2026-05-06,110,Baltimore Orioles,691723,Coby Mayo,3B,active
+2026-05-06,110,Baltimore Orioles,681297,Colton Cowser,RF,active
+2026-05-06,110,Baltimore Orioles,608650,Dietrich Enns,P,active
+2026-05-06,110,Baltimore Orioles,687637,Dylan Beavers,RF,active
+2026-05-06,110,Baltimore Orioles,664991,Grant Wolfram,P,active
+2026-05-06,110,Baltimore Orioles,683002,Gunnar Henderson,SS,active
+2026-05-06,110,Baltimore Orioles,669236,Jeremiah Jackson,2B,active
+2026-05-06,110,Baltimore Orioles,669211,Keegan Akin,P,active
+2026-05-06,110,Baltimore Orioles,680694,Kyle Bradish,P,active
+2026-05-06,110,Baltimore Orioles,665750,Leody Taveras,CF,active
+2026-05-06,110,Baltimore Orioles,642152,Lou Trivino,P,active
+2026-05-06,110,Baltimore Orioles,624413,Pete Alonso,1B,active
+2026-05-06,110,Baltimore Orioles,670329,Rico Garcia,P,active
+2026-05-06,110,Baltimore Orioles,694212,Samuel Basallo,C,active
+2026-05-06,110,Baltimore Orioles,669358,Shane Baz,P,active
+2026-05-06,110,Baltimore Orioles,621493,Taylor Ward,LF,active
+2026-05-06,110,Baltimore Orioles,641933,Tyler O'Neill,RF,active
+2026-05-06,110,Baltimore Orioles,642215,Weston Wilson,3B,active
+2026-05-06,110,Baltimore Orioles,666974,Yennier Cano,P,active
+2026-05-06,111,Boston Red Sox,687941,Alec Gamboa,P,active
+2026-05-06,111,Boston Red Sox,655316,Andruw Monasterio,SS,active
+2026-05-06,111,Boston Red Sox,547973,Aroldis Chapman,P,active
+2026-05-06,111,Boston Red Sox,678394,Brayan Bello,P,active
+2026-05-06,111,Boston Red Sox,702332,Caleb Durbin,3B,active
+2026-05-06,111,Boston Red Sox,665966,Carlos Narváez,C,active
+2026-05-06,111,Boston Red Sox,678882,Ceddanne Rafaela,CF,active
+2026-05-06,111,Boston Red Sox,813349,Connelly Early,P,active
+2026-05-06,111,Boston Red Sox,657136,Connor Wong,C,active
+2026-05-06,111,Boston Red Sox,676477,Garrett Whitlock,P,active
+2026-05-06,111,Boston Red Sox,669711,Greg Weissert,P,active
+2026-05-06,111,Boston Red Sox,643396,Isiah Kiner-Falefa,2B,active
+2026-05-06,111,Boston Red Sox,687562,Jake Bennett,P,active
+2026-05-06,111,Boston Red Sox,680776,Jarren Duran,LF,active
+2026-05-06,111,Boston Red Sox,663558,Jovani Morán,P,active
+2026-05-06,111,Boston Red Sox,691785,Marcelo Mayer,2B,active
+2026-05-06,111,Boston Red Sox,807799,Masataka Yoshida,LF,active
+2026-05-06,111,Boston Red Sox,801139,Payton Tolle,P,active
+2026-05-06,111,Boston Red Sox,624133,Ranger Suarez,P,active
+2026-05-06,111,Boston Red Sox,701350,Roman Anthony,LF,active
+2026-05-06,111,Boston Red Sox,670245,Ryan Watson,P,active
+2026-05-06,111,Boston Red Sox,596115,Trevor Story,SS,active
+2026-05-06,111,Boston Red Sox,701719,Tyler Samaniego,P,active
+2026-05-06,111,Boston Red Sox,575929,Willson Contreras,1B,active
+2026-05-06,111,Boston Red Sox,677800,Wilyer Abreu,RF,active
+2026-05-06,111,Boston Red Sox,677161,Zack Kelly,P,active
+2026-05-06,112,Chicago Cubs,608324,Alex Bregman,3B,active
+2026-05-06,112,Chicago Cubs,676962,Ben Brown,P,active
+2026-05-06,112,Chicago Cubs,608348,Carson Kelly,C,active
+2026-05-06,112,Chicago Cubs,607067,Colin Rea,P,active
+2026-05-06,112,Chicago Cubs,656686,Corbin Martin,P,active
+2026-05-06,112,Chicago Cubs,694037,Daniel Palencia,P,active
+2026-05-06,112,Chicago Cubs,621020,Dansby Swanson,SS,active
+2026-05-06,112,Chicago Cubs,665795,Edward Cabrera,P,active
+2026-05-06,112,Chicago Cubs,571948,Hoby Milner,P,active
+2026-05-06,112,Chicago Cubs,664023,Ian Happ,LF,active
+2026-05-06,112,Chicago Cubs,657097,Jacob Webb,P,active
+2026-05-06,112,Chicago Cubs,592791,Jameson Taillon,P,active
+2026-05-06,112,Chicago Cubs,665871,Javier Assad,P,active
+2026-05-06,112,Chicago Cubs,807713,Matt Shaw,RF,active
+2026-05-06,112,Chicago Cubs,571510,Matthew Boyd,P,active
+2026-05-06,112,Chicago Cubs,683737,Michael Busch,1B,active
+2026-05-06,112,Chicago Cubs,624424,Michael Conforto,RF,active
+2026-05-06,112,Chicago Cubs,665804,Miguel Amaya,C,active
+2026-05-06,112,Chicago Cubs,694208,Moisés Ballesteros,C,active
+2026-05-06,112,Chicago Cubs,670032,Nicky Lopez,3B,active
+2026-05-06,112,Chicago Cubs,663538,Nico Hoerner,2B,active
+2026-05-06,112,Chicago Cubs,691718,Pete Crow-Armstrong,CF,active
+2026-05-06,112,Chicago Cubs,664208,Phil Maton,P,active
+2026-05-06,112,Chicago Cubs,669020,Ryan Rolison,P,active
+2026-05-06,112,Chicago Cubs,673548,Seiya Suzuki,RF,active
+2026-05-06,112,Chicago Cubs,684007,Shota Imanaga,P,active
+2026-05-06,113,Cincinnati Reds,671096,Andrew Abbott,P,active
+2026-05-06,113,Cincinnati Reds,694362,Blake Dunn,LF,active
+2026-05-06,113,Cincinnati Reds,663903,Brady Singer,P,active
+2026-05-06,113,Cincinnati Reds,656271,Brock Burke,P,active
+2026-05-06,113,Cincinnati Reds,695505,Chase Burns,P,active
+2026-05-06,113,Cincinnati Reds,695534,Chase Petty,P,active
+2026-05-06,113,Cincinnati Reds,683175,Connor Phillips,P,active
+2026-05-06,113,Cincinnati Reds,667472,Dane Myers,CF,active
+2026-05-06,113,Cincinnati Reds,682829,Elly De La Cruz,SS,active
+2026-05-06,113,Cincinnati Reds,641941,Emilio Pagán,P,active
+2026-05-06,113,Cincinnati Reds,668933,Graham Ashcraft,P,active
+2026-05-06,113,Cincinnati Reds,668709,JJ Bleday,LF,active
+2026-05-06,113,Cincinnati Reds,683742,Jose Franco,P,active
+2026-05-06,113,Cincinnati Reds,624431,Jose Trevino,C,active
+2026-05-06,113,Cincinnati Reds,663647,Ke'Bryan Hayes,3B,active
+2026-05-06,113,Cincinnati Reds,682825,Luis Mey,P,active
+2026-05-06,113,Cincinnati Reds,680574,Matt McLain,2B,active
+2026-05-06,113,Cincinnati Reds,663993,Nathaniel Lowe,1B,active
+2026-05-06,113,Cincinnati Reds,695076,Rhett Lowder,P,active
+2026-05-06,113,Cincinnati Reds,701398,Sal Stewart,1B,active
+2026-05-06,113,Cincinnati Reds,594580,Sam Moll,P,active
+2026-05-06,113,Cincinnati Reds,668715,Spencer Steer,LF,active
+2026-05-06,113,Cincinnati Reds,670770,TJ Friedl,CF,active
+2026-05-06,113,Cincinnati Reds,663574,Tony Santillan,P,active
+2026-05-06,113,Cincinnati Reds,663886,Tyler Stephenson,C,active
+2026-05-06,113,Cincinnati Reds,666181,Will Benson,RF,active
+2026-05-06,114,Cleveland Guardians,682657,Angel Martínez,LF,active
+2026-05-06,114,Cleveland Guardians,595978,Austin Hedges,C,active
+2026-05-06,114,Cleveland Guardians,666310,Bo Naylor,C,active
+2026-05-06,114,Cleveland Guardians,677587,Brayan Rocchio,SS,active
+2026-05-06,114,Cleveland Guardians,671922,Cade Smith,P,active
+2026-05-06,114,Cleveland Guardians,800050,Chase DeLauter,RF,active
+2026-05-06,114,Cleveland Guardians,670059,Colin Holderman,P,active
+2026-05-06,114,Cleveland Guardians,641401,Connor Brogdon,P,active
+2026-05-06,114,Cleveland Guardians,682177,Daniel Schneemann,CF,active
+2026-05-06,114,Cleveland Guardians,681807,David Fry,RF,active
+2026-05-06,114,Cleveland Guardians,681870,Erik Sabrowski,P,active
+2026-05-06,114,Cleveland Guardians,668909,Gavin Williams,P,active
+2026-05-06,114,Cleveland Guardians,683769,Hunter Gaddis,P,active
+2026-05-06,114,Cleveland Guardians,676282,Joey Cantillo,P,active
+2026-05-06,114,Cleveland Guardians,608070,José Ramírez,3B,active
+2026-05-06,114,Cleveland Guardians,700932,Kyle Manzardo,1B,active
+2026-05-06,114,Cleveland Guardians,670036,Matt Festa,P,active
+2026-05-06,114,Cleveland Guardians,800048,Parker Messick,P,active
+2026-05-06,114,Cleveland Guardians,690984,Petey Halpin,CF,active
+2026-05-06,114,Cleveland Guardians,688883,Peyton Pallette,P,active
+2026-05-06,114,Cleveland Guardians,656555,Rhys Hoskins,1B,active
+2026-05-06,114,Cleveland Guardians,677944,Slade Cecconi,P,active
+2026-05-06,114,Cleveland Guardians,680757,Steven Kwan,CF,active
+2026-05-06,114,Cleveland Guardians,676440,Tanner Bibee,P,active
+2026-05-06,114,Cleveland Guardians,682120,Tim Herrin,P,active
+2026-05-06,114,Cleveland Guardians,683953,Travis Bazzana,2B,active
+2026-05-06,115,Colorado Rockies,622608,Antonio Senzatela,P,active
+2026-05-06,115,Colorado Rockies,657514,Brennan Bernardino,P,active
+2026-05-06,115,Colorado Rockies,686668,Brenton Doyle,CF,active
+2026-05-06,115,Colorado Rockies,664954,Brett Sullivan,C,active
+2026-05-06,115,Colorado Rockies,801403,Chase Dollander,P,active
+2026-05-06,115,Colorado Rockies,666397,Edouard Julien,2B,active
+2026-05-06,115,Colorado Rockies,678662,Ezequiel Tovar,SS,active
+2026-05-06,115,Colorado Rockies,696100,Hunter Goodman,C,active
+2026-05-06,115,Colorado Rockies,677955,Jaden Hill,P,active
+2026-05-06,115,Colorado Rockies,664983,Jake McCarthy,LF,active
+2026-05-06,115,Colorado Rockies,623474,Jimmy Herget,P,active
+2026-05-06,115,Colorado Rockies,687597,Jordan Beck,LF,active
+2026-05-06,115,Colorado Rockies,500779,Jose Quintana,P,active
+2026-05-06,115,Colorado Rockies,675848,Juan Mejia,P,active
+2026-05-06,115,Colorado Rockies,607536,Kyle Freeland,P,active
+2026-05-06,115,Colorado Rockies,691720,Kyle Karros,3B,active
+2026-05-06,115,Colorado Rockies,547179,Michael Lorenzen,P,active
+2026-05-06,115,Colorado Rockies,666160,Mickey Moniak,LF,active
+2026-05-06,115,Colorado Rockies,681198,TJ Rumfield,1B,active
+2026-05-06,115,Colorado Rockies,685299,Tanner Gordon,P,active
+2026-05-06,115,Colorado Rockies,608372,Tomoyuki Sugano,P,active
+2026-05-06,115,Colorado Rockies,687859,Troy Johnston,RF,active
+2026-05-06,115,Colorado Rockies,671289,Tyler Freeman,RF,active
+2026-05-06,115,Colorado Rockies,680767,Victor Vodnik,P,active
+2026-05-06,115,Colorado Rockies,650489,Willi Castro,2B,active
+2026-05-06,115,Colorado Rockies,688642,Zach Agnos,P,active
+2026-05-06,116,Detroit Tigers,676428,Brant Hurter,P,active
+2026-05-06,116,Detroit Tigers,669724,Brenan Hanifee,P,active
+2026-05-06,116,Detroit Tigers,572143,Burch Smith,P,active
+2026-05-06,116,Detroit Tigers,690993,Colt Keith,3B,active
+2026-05-06,116,Detroit Tigers,693307,Dillon Dingler,C,active
+2026-05-06,116,Detroit Tigers,623454,Drew Anderson,P,active
+2026-05-06,116,Detroit Tigers,646241,Enmanuel De Jesus,P,active
+2026-05-06,116,Detroit Tigers,664285,Framber Valdez,P,active
+2026-05-06,116,Detroit Tigers,650402,Gleyber Torres,2B,active
+2026-05-06,116,Detroit Tigers,701678,Hao-Yu  Lee,3B,active
+2026-05-06,116,Detroit Tigers,656427,Jack Flaherty,P,active
+2026-05-06,116,Detroit Tigers,663330,Jahmai Jones,RF,active
+2026-05-06,116,Detroit Tigers,668670,Jake Rogers,C,active
+2026-05-06,116,Detroit Tigers,672456,Keider Montero,P,active
+2026-05-06,116,Detroit Tigers,445276,Kenley Jansen,P,active
+2026-05-06,116,Detroit Tigers,681481,Kerry Carpenter,RF,active
+2026-05-06,116,Detroit Tigers,805808,Kevin McGonigle,SS,active
+2026-05-06,116,Detroit Tigers,640448,Kyle Finnegan,P,active
+2026-05-06,116,Detroit Tigers,663837,Matt Vierling,CF,active
+2026-05-06,116,Detroit Tigers,676568,Ricky Vanasco,P,active
+2026-05-06,116,Detroit Tigers,682985,Riley Greene,LF,active
+2026-05-06,116,Detroit Tigers,679529,Spencer Torkelson,1B,active
+2026-05-06,116,Detroit Tigers,680744,Ty Madden,P,active
+2026-05-06,116,Detroit Tigers,663947,Tyler Holton,P,active
+2026-05-06,116,Detroit Tigers,672761,Wenceel Pérez,RF,active
+2026-05-06,116,Detroit Tigers,656716,Zach McKinstry,2B,active
+2026-05-06,117,Houston Astros,805123,AJ Blubaugh,P,active
+2026-05-06,117,Houston Astros,656986,Bennett Sousa,P,active
+2026-05-06,117,Houston Astros,669699,Braden Shewmake,2B,active
+2026-05-06,117,Houston Astros,694728,Brice Matthews,LF,active
+2026-05-06,117,Houston Astros,650556,Bryan Abreu,P,active
+2026-05-06,117,Houston Astros,687911,Bryan King,P,active
+2026-05-06,117,Houston Astros,701358,Cam Smith,RF,active
+2026-05-06,117,Houston Astros,621043,Carlos Correa,SS,active
+2026-05-06,117,Houston Astros,663967,César Salazar,C,active
+2026-05-06,117,Houston Astros,543877,Christian Vázquez,C,active
+2026-05-06,117,Houston Astros,572233,Christian Walker,1B,active
+2026-05-06,117,Houston Astros,675989,Cody Bolton,P,active
+2026-05-06,117,Houston Astros,660853,Enyel De Los Santos,P,active
+2026-05-06,117,Houston Astros,670623,Isaac Paredes,3B,active
+2026-05-06,117,Houston Astros,669920,Jason Alexander,P,active
+2026-05-06,117,Houston Astros,514888,Jose Altuve,2B,active
+2026-05-06,117,Houston Astros,678906,Kai-Wei Teng,P,active
+2026-05-06,117,Houston Astros,621121,Lance McCullers Jr.,P,active
+2026-05-06,117,Houston Astros,681347,Mike Burrows,P,active
+2026-05-06,117,Houston Astros,669397,Nick Allen,SS,active
+2026-05-06,117,Houston Astros,663567,Peter Lambert,P,active
+2026-05-06,117,Houston Astros,681293,Spencer Arrighetti,P,active
+2026-05-06,117,Houston Astros,595345,Steven Okert,P,active
+2026-05-06,117,Houston Astros,670541,Yordan Alvarez,LF,active
+2026-05-06,117,Houston Astros,805904,Zach Cole,CF,active
+2026-05-06,117,Houston Astros,701305,Zach Dezenzo,LF,active
+2026-05-06,118,Kansas City Royals,656638,Alex Lange,P,active
+2026-05-06,118,Kansas City Royals,677951,Bobby Witt Jr.,SS,active
+2026-05-06,118,Kansas City Royals,695600,Carter Jensen,C,active
+2026-05-06,118,Kansas City Royals,666142,Cole Ragans,P,active
+2026-05-06,118,Kansas City Royals,663738,Daniel Lynch IV,P,active
+2026-05-06,118,Kansas City Royals,553869,Elias Díaz,C,active
+2026-05-06,118,Kansas City Royals,686555,Isaac Collins,LF,active
+2026-05-06,118,Kansas City Royals,695506,Jac Caglianone,RF,active
+2026-05-06,118,Kansas City Royals,670167,John Schreiber,P,active
+2026-05-06,118,Kansas City Royals,663460,Kris Bubic,P,active
+2026-05-06,118,Kansas City Royals,664728,Kyle Isbel,CF,active
+2026-05-06,118,Kansas City Royals,657041,Lane Thomas,CF,active
+2026-05-06,118,Kansas City Royals,668674,Lucas Erceg,P,active
+2026-05-06,118,Kansas City Royals,679883,Luinder Avila,P,active
+2026-05-06,118,Kansas City Royals,672580,Maikel Garcia,3B,active
+2026-05-06,118,Kansas City Royals,621381,Matt Strahm,P,active
+2026-05-06,118,Kansas City Royals,686681,Michael Massey,2B,active
+2026-05-06,118,Kansas City Royals,608379,Michael Wacha,P,active
+2026-05-06,118,Kansas City Royals,679845,Nick Loftin,3B,active
+2026-05-06,118,Kansas City Royals,683232,Nick Mears,P,active
+2026-05-06,118,Kansas City Royals,702070,Noah Cameron,P,active
+2026-05-06,118,Kansas City Royals,521692,Salvador Perez,C,active
+2026-05-06,118,Kansas City Royals,607625,Seth Lugo,P,active
+2026-05-06,118,Kansas City Royals,516782,Starling Marte,RF,active
+2026-05-06,118,Kansas City Royals,663568,Stephen Kolek,P,active
+2026-05-06,118,Kansas City Royals,686469,Vinnie Pasquantino,1B,active
+2026-05-06,119,Los Angeles Dodgers,669743,Alex Call,LF,active
+2026-05-06,119,Los Angeles Dodgers,690976,Alex Freeland,2B,active
+2026-05-06,119,Los Angeles Dodgers,681911,Alex Vesia,P,active
+2026-05-06,119,Los Angeles Dodgers,681624,Andy Pages,CF,active
+2026-05-06,119,Los Angeles Dodgers,595014,Blake Treinen,P,active
+2026-05-06,119,Los Angeles Dodgers,687221,Dalton Rushing,C,active
+2026-05-06,119,Los Angeles Dodgers,683618,Edgardo Henriquez,P,active
+2026-05-06,119,Los Angeles Dodgers,686218,Emmet Sheehan,P,active
+2026-05-06,119,Los Angeles Dodgers,518692,Freddie Freeman,1B,active
+2026-05-06,119,Los Angeles Dodgers,808975,Hyeseong Kim,SS,active
+2026-05-06,119,Los Angeles Dodgers,676263,Jack Dreyer,P,active
+2026-05-06,119,Los Angeles Dodgers,671109,Jake Eder,P,active
+2026-05-06,119,Los Angeles Dodgers,680736,Justin Wrobleski,P,active
+2026-05-06,119,Los Angeles Dodgers,669165,Kyle Hurt,P,active
+2026-05-06,119,Los Angeles Dodgers,663656,Kyle Tucker,RF,active
+2026-05-06,119,Los Angeles Dodgers,571970,Max Muncy,3B,active
+2026-05-06,119,Los Angeles Dodgers,500743,Miguel Rojas,SS,active
+2026-05-06,119,Los Angeles Dodgers,808963,Roki Sasaki,P,active
+2026-05-06,119,Los Angeles Dodgers,669289,Santiago Espinal,3B,active
+2026-05-06,119,Los Angeles Dodgers,660271,Shohei Ohtani,TWP,active
+2026-05-06,119,Los Angeles Dodgers,656945,Tanner Scott,P,active
+2026-05-06,119,Los Angeles Dodgers,606192,Teoscar Hernández,LF,active
+2026-05-06,119,Los Angeles Dodgers,607192,Tyler Glasnow,P,active
+2026-05-06,119,Los Angeles Dodgers,694361,Will Klein,P,active
+2026-05-06,119,Los Angeles Dodgers,669257,Will Smith,C,active
+2026-05-06,119,Los Angeles Dodgers,808967,Yoshinobu Yamamoto,P,active
+2026-05-06,120,Washington Nationals,701552,Andre Granillo,P,active
+2026-05-06,120,Washington Nationals,695418,Brad Lord,P,active
+2026-05-06,120,Washington Nationals,691781,Brady House,3B,active
+2026-05-06,120,Washington Nationals,682928,CJ Abrams,SS,active
+2026-05-06,120,Washington Nationals,676917,Cade Cavalli,P,active
+2026-05-06,120,Washington Nationals,678554,Curtis Mead,1B,active
+2026-05-06,120,Washington Nationals,695734,Daylen Lile,LF,active
+2026-05-06,120,Washington Nationals,686452,Drew Millas,C,active
+2026-05-06,120,Washington Nationals,656492,Foster Griffin,P,active
+2026-05-06,120,Washington Nationals,681402,Gus Varland,P,active
+2026-05-06,120,Washington Nationals,696285,Jacob Young,CF,active
+2026-05-06,120,Washington Nationals,663623,Jake Irvin,P,active
+2026-05-06,120,Washington Nationals,695578,James Wood,RF,active
+2026-05-06,120,Washington Nationals,686894,Joey Wiemer,RF,active
+2026-05-06,120,Washington Nationals,678391,Jorbit Vivas,3B,active
+2026-05-06,120,Washington Nationals,677588,José Tena,2B,active
+2026-05-06,120,Washington Nationals,660688,Keibert Ruiz,C,active
+2026-05-06,120,Washington Nationals,671277,Luis García Jr.,1B,active
+2026-05-06,120,Washington Nationals,571945,Miles Mikolas,P,active
+2026-05-06,120,Washington Nationals,680730,Mitchell Parker,P,active
+2026-05-06,120,Washington Nationals,683083,Nasim Nuñez,2B,active
+2026-05-06,120,Washington Nationals,687377,Orlando Ribalta,P,active
+2026-05-06,120,Washington Nationals,676571,PJ Poulin,P,active
+2026-05-06,120,Washington Nationals,687606,Paxton Schultz,P,active
+2026-05-06,120,Washington Nationals,663992,Richard Lovelady,P,active
+2026-05-06,120,Washington Nationals,641793,Zack Littell,P,active
+2026-05-06,121,New York Mets,628451,Andy Ibáñez,2B,active
+2026-05-06,121,New York Mets,596103,Austin Slater,LF,active
+2026-05-06,121,New York Mets,681810,Austin Warren,P,active
+2026-05-06,121,New York Mets,666182,Bo Bichette,3B,active
+2026-05-06,121,New York Mets,683146,Brett Baty,RF,active
+2026-05-06,121,New York Mets,548384,Brooks Raley,P,active
+2026-05-06,121,New York Mets,701807,Carson Benge,LF,active
+2026-05-06,121,New York Mets,681035,Christian Scott,P,active
+2026-05-06,121,New York Mets,605280,Clay Holmes,P,active
+2026-05-06,121,New York Mets,518886,Craig Kimbrel,P,active
+2026-05-06,121,New York Mets,656849,David Peterson,P,active
+2026-05-06,121,New York Mets,642207,Devin Williams,P,active
+2026-05-06,121,New York Mets,682626,Francisco Alvarez,C,active
+2026-05-06,121,New York Mets,642547,Freddy Peralta,P,active
+2026-05-06,121,New York Mets,623211,Huascar Brazobán,P,active
+2026-05-06,121,New York Mets,665742,Juan Soto,LF,active
+2026-05-06,121,New York Mets,620443,Luis Torrens,C,active
+2026-05-06,121,New York Mets,596133,Luke Weaver,P,active
+2026-05-06,121,New York Mets,669004,MJ Melendez,LF,active
+2026-05-06,121,New York Mets,543760,Marcus Semien,2B,active
+2026-05-06,121,New York Mets,668901,Mark Vientos,1B,active
+2026-05-06,121,New York Mets,690997,Nolan McLean,P,active
+2026-05-06,121,New York Mets,640455,Sean Manaea,P,active
+2026-05-06,121,New York Mets,668964,Tobias Myers,P,active
+2026-05-06,121,New York Mets,621438,Tyrone Taylor,RF,active
+2026-05-06,121,New York Mets,660644,Vidal Bruján,3B,active

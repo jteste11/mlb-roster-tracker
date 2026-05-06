@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from datetime import date
-from typing import Dict, Any, List, Tuple
+from typing import Dict, Any, List, Tuple, Optional
 
 from sqlalchemy.orm import Session
 
@@ -37,13 +37,31 @@ def sync_teams(session: Session, season: int) -> List[Team]:
     return result
 
 
-def _get_or_create_player(session: Session, player_data: Dict[str, Any]) -> Player:
-    player_id = player_data["person"]["id"]
-    full_name = player_data["person"]["full_name"]
-    primary_position = None
-    if player_data.get("position"):
-        primary_position = player_data["position"].get("abbreviation")
+def _get_or_create_player(session: Session, player_data: Dict[str, Any]) -> Optional[Player]:
+    # MLB "people" endpoint format:
+    # {
+    #   "id": 621438,
+    #   "full_name": "Tyrone Taylor",
+    #   "primary_position": {"abbreviation": "RF"},
+    #   ...
+    # }
 
+    # Defensive guard: ensure "id" exists
+    player_id = player_data.get("id")
+    if player_id is None:
+        print("⚠️ Skipping malformed roster entry (missing id):", player_data)
+        return None
+
+    # Name field is "full_name" in this endpoint
+    full_name = player_data.get("full_name", "Unknown Player")
+
+    # Position field is "primary_position"
+    primary_position = None
+    pos = player_data.get("primary_position")
+    if pos:
+        primary_position = pos.get("abbreviation")
+
+    # Look up or create player
     player = session.get(Player, player_id)
     if player is None:
         player = Player(
@@ -57,6 +75,7 @@ def _get_or_create_player(session: Session, player_data: Dict[str, Any]) -> Play
         player.primary_position = primary_position
 
     return player
+
 
 
 def store_roster_snapshot(
@@ -73,6 +92,8 @@ def store_roster_snapshot(
     players: List[Player] = []
     for entry in roster_entries:
         player = _get_or_create_player(session, entry)
+        if player is None:
+            continue
         players.append(player)
 
     session.flush()
